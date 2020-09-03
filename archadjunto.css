@@ -1,0 +1,46 @@
+.borde{
+    padding: 5px;
+    background: sandybrown;
+    width: 650px;
+    border-radius: 10px;
+}
+
+
+.letra{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightseagreen;
+    width: 140px;
+    background: seagreen;
+    border-radius: 10px;
+}
+
+.coco{
+    width: 95px;
+    background: cadetblue;
+    border-radius: 5px;
+}
+
+.fot{
+    position:relative;
+    right: -20px;
+    display: inline-block;
+}
+
+.letra2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: indianred;
+    font-size: 100px;
+}
+
+.cuadro{
+    border-radius: 5px;
+    width: 90px;
+    height: 100px;
+    background: lawngreen;
+}
+
+#subray{
+    color: red;
+    background: rosybrown;
+    width: 100px;
+}
